@@ -37,7 +37,7 @@ a:nth-child(2) {
 span {
     position: absolute;
     background: #fff;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); /*Sửa vị trí tâm vòng tròn vào point*/
     pointer-events: none;
     border-radius: 50%;
     animation: animate 1s linear infinite;
